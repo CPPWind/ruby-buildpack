@@ -1,3 +1,5 @@
+# WARNING FOR CPP INTERNAL USAGE ONLY.
+There are critial uri that point to files not publicly available
 # Cloud Foundry buildpack: Ruby
 
 A Cloud Foundry [buildpack](http://docs.cloudfoundry.org/buildpacks/) for Ruby based apps.
